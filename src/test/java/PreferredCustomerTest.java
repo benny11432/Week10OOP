@@ -4,8 +4,8 @@ public class PreferredCustomerTest {
     public static void main(String[] args) {
         // Create a PreferredCustomer with no-arg constructor
         PreferredCustomer pc = new PreferredCustomer();
-        pc.setName("Charlie Customer");
-        pc.setAddress("3 Middle Road");
+        pc.setName("Ben Customer");
+        pc.setAddress("Dublin");
         pc.setPhoneNumber("0871112222");
         pc.setCustomerNumber(2001);
         pc.setMailingList(true);
